@@ -1,0 +1,19 @@
+.content{
+    width: 250px;
+    height: 200px;
+    gap: 20px;
+    border-radius: 5px;
+    border: 1px solid #d4d4d4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image{
+    width: 70%;
+    height: 70%;
+}
+
+.text{
+
+}
